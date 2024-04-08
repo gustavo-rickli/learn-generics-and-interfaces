@@ -16,5 +16,3 @@ Escreva um programa que alimente um vetor com 10 números inteiros.
  7. Os valores que são iguais a média
 
 *******
-
-<hr>
